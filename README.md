@@ -13,6 +13,7 @@ Overview of tech used but not limited to list below.
 * Lombok - Limits boilerplate code
 * Spock - Testing framework
 * Docker - Container service for Cassandra
+* Spring Security - Module for basic security that could be expanded to an external provider
 
 
 ## Docker Hosted Cassandra
